@@ -11,5 +11,5 @@ Website: https://speechtotextcomp.vercel.app/
 # Documentation and API
 
 # Credits
-[vatsal]() - Backend (express.js and python) <br/>
-[jaipack17](https://github.com/jaipack17) - Frontend (react.js)
+[vatsal]() - Backend (express.js, mongodb and python) <br/>
+[jaipack17](https://github.com/jaipack17) - Frontend (react.js, html and css)
