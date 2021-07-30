@@ -6,7 +6,7 @@
 
 Text to Speech is a react app made with love! It helps impower Auditary Impaired Leaners by the use of Artificial Intelligence! 
 
-Website: ...
+Website: https://speechtotextcomp.vercel.app/
 
 # Documentation and API
 
