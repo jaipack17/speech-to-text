@@ -18,9 +18,13 @@ Website: https://speechtotextcomp.vercel.app/
 
 # Documentation 
 
+### Note: You must allow Microphone access for the website to generate dialogues.
+
+* Once you click [this](https://speechtotextcomp.vercel.app/) you will be taken to the website. Scroll down, you will see these components on your screen!
+
 ![snippet 2](https://user-images.githubusercontent.com/74130881/127673448-f9bb35e2-db02-40e9-b480-e9ffa7a30770.png)
 
-### Note: You must allow Microphone access for the website to generate dialogues.
+
 
 # Credits
 [vatsal]() - Backend (express.js, mongodb and python) <br/>
