@@ -27,12 +27,19 @@ function Home() {
       <br/>
       <br/>
       <header className="App-center">
-        <div>{dialogues.map(entry =>
+        {
+          dialogues.length === 0 ? <div>{
+            <h2 className="transcript">
+              "your text will be displayed here!"
+            </h2>
+          }
+          </div> :  <div>{dialogues.map(entry =>
           <h2 className="transcript">
             "{entry}"
           </h2>
         )}
         </div>
+        }
         {
           !recording ? <button className="record" onClick={
             () => {
