@@ -14,8 +14,6 @@ Text to Speech is a react app made with love! It helps impower Auditary Impaired
 
 Website: https://speechtotextcomp.vercel.app/
 
-# Demonstration
-
 # Documentation 
 
 ### Note: You must allow Microphone access for the website to generate dialogues.
