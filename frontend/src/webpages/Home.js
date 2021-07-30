@@ -52,9 +52,14 @@ function Home() {
           }>■</button>
           </>
         }
-        {
-          recording ? <h2 id="status" className="time">Stop</h2> : <h2 className="time" >Start</h2>
-        }
+        <br/><br/>
+        <button className="clear" onClick = {
+          () => {
+            setDialogues([])
+          }
+        }>
+          Clear Dialogues
+        </button>
         <div className="credits">
             <h4>
               Backend developed by vatsal and Frontend by jaipack17
