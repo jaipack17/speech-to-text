@@ -10,6 +10,8 @@ Website: https://speechtotextcomp.vercel.app/
 
 # Documentation and API
 
+![snippet 2](https://user-images.githubusercontent.com/74130881/127673448-f9bb35e2-db02-40e9-b480-e9ffa7a30770.png)
+
 # Credits
 [vatsal]() - Backend (express.js, mongodb and python) <br/>
 [jaipack17](https://github.com/jaipack17) - Frontend (react.js, html and css)
