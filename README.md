@@ -11,5 +11,5 @@ Website: ...
 # Documentation and API
 
 # Credits
-[vatsal]() - Backend (express.js and python)
+[vatsal]() - Backend (express.js and python) <br/>
 [jaipack17](https://github.com/jaipack17) - Frontend (react.js)
