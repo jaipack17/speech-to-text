@@ -8,3 +8,8 @@ Text to Speech is a react app made with love! It helps impower Auditary Impaired
 
 Website: ...
 
+# Documentation and API
+
+# Credits
+[vatsal]() - Backend (express.js and python)
+[jaipack17](https://github.com/jaipack17) - Frontend (react.js)
