@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74130881/127653219-4077d4bf-4fb2-4277-8b00-af333791fc2e.png" alt="logo"/>
 </div>
 
+Use of a desktop device is highly recommended for a better experience
+
 # Table Of Contents
 - [About](#about)
 - [Demonstration](#demonstration)
