@@ -138,3 +138,22 @@ h1 {
   margin-left: 5%;
   cursor: pointer;
 }
+
+.clear {
+  background-color: #fff; /* Green */
+  border: 2px solid #EE4B2B;
+  color: #EE4B2B;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 4%;
+}
+
+.clear:hover {
+  background-color: #EE4B2B;
+  color: white;
+}
