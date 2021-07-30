@@ -58,7 +58,8 @@ function Home() {
         <div className="credits">
             <h4>
               Backend developed by vatsal and Frontend by jaipack17
-              <a href="https://github.com/jaipack17/speech-to-text" target="_blank" rel="noreferrer">view source code - github</a>
+              <br/>
+              <a href="https://github.com/jaipack17/speech-to-text" target="_blank">view source code - github</a>
             </h4>
         </div>
         <br/>
